@@ -42,13 +42,13 @@ Unlike the impact of removing the 9th grade data from the "9th Grade Average Mat
 ![school_reading_scores_by_grade](Resources/school_reading_scores_by_grade.png)
   
 ### Scores:
-With Thomas High School's Per-Student Budget value of $638.00, it falls under the $630-644 per student range, and the impact of removing the 9th grade data made no impact on the results when combined with the other schools in its spending per student range and formatted to round off the numbers.
+1. With Thomas High School's Per-Student Budget value of $638.00, it falls under the $630-644 per student range, and the impact of removing the 9th grade data made no impact on the results when combined with the other schools in its spending per student range and formatted to round off the numbers.
 - Original Summary (Left) / Updated Summary (Right)
 ![score_per_student_spending](Resources/score_per_student_spending.png)
-Similarly, with the student population of 1,635 for Thomas High School, it falls under the "Medium (1000-2000)" school size, and the removal of the 9th grade data made no impact in the resulting analyses when Thomas High School's performance is included with the rest of the data from other schools of similar size and the values are formatted to round off the decimal points.
+2. Similarly, with the student population of 1,635 for Thomas High School, it falls under the "Medium (1000-2000)" school size, and the removal of the 9th grade data made no impact in the resulting analyses when Thomas High School's performance is included with the rest of the data from other schools of similar size and the values are formatted to round off the decimal points.
 - Original Summary (Left) / Updated Summary (Right)
 ![school_scores_by_size](Resources/school_scores_by_size.png)
-Once again, when the data for Thomas High School is updated and an analysis is done with its data included with schools of similar type, the results were not different enough to change the values once they were formatted to round off the decimals. For this summary, instead of presenting the rounded values, the unformatted values presented show that there is indeed an impact made from changing the 9th grade values for Thomas High School, but it is indeed very rarely noticable with the final formatting across each analysis.
+3. Once again, when the data for Thomas High School is updated and an analysis is done with its data included with schools of similar type, the results were not different enough to change the values once they were formatted to round off the decimals. For this summary, instead of presenting the rounded values, the unformatted values presented show that there is indeed an impact made from changing the 9th grade values for Thomas High School, but it is indeed very rarely noticable with the final formatting across each analysis.
 - Original Summary (Left) / Updated Summary (Right)
 ![school_scores_by_type](Resources/school_scores_by_type.png)
 
