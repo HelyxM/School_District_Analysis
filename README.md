@@ -4,9 +4,9 @@
 [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb)
 
 ### School District CSV Files:
-[schools_complete](Resources/schools_complete.csv)
-[students_complete](Resources/students_complete.csv)
-[clean_students_complete](Resources/clean_students_complete.csv)
+- [schools_complete](Resources/schools_complete.csv)
+- [students_complete](Resources/students_complete.csv)
+- [clean_students_complete](Resources/clean_students_complete.csv)
 
 ## **Overview**:
 
