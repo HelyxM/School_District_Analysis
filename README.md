@@ -23,7 +23,7 @@ The values in the district's summary, for the most part, have each been slightly
 	
 ### School Summary:
 The values in the individual schools summary have, obviously, remained the same for all other schools except Thomas High School. Most of the concusions to the updated analysis have decreased slightly, the exception being the "Average Reading Score", which increased slightly. For the values that are impacted by the updated data for Thomas High School the changes were:
-  - Average Math Score: -0.067 points	- Average Reading Score: +0.047	points	- % Passing Math: -0.865 %	- % Passing Reading: -0.29 % 	- % Overall Passing: -0.318 %
+  - Average Math Score: -0.067 points	- Average Reading Score: +0.047	points	- % Passing Math: -0.0865 %	- % Passing Reading: -0.29 % 	- % Overall Passing: -0.318 %
 - Original Summary (Left) / Updated Summary (Right)
 ![school_summary](Resources/school_summary.png)
 		
@@ -53,12 +53,9 @@ Unlike the impact of removing the 9th grade data from the "9th Grade Average Mat
 ![school_scores_by_type](Resources/school_scores_by_type.png)
 
 ## **Summary**:
-With the removal of the 9th grade scores, the results for each analysis involving this data were impacted very slightly and often to an extent too small to notice when the numbers were formatted for better presentation. The most clear cases of this updated data changing the results of an analysis were:
+With the removal of the 9th grade scores, the results for each analysis involving this data were impacted very slightly and often to an extent too small to notice when the numbers were formatted for better presentation. Though the changes that came from the adjusted data values were small, they were not insignificant in several cases shown from this updated analysis. The most clear cases of this updated data changing the results of an analysis were:
 
-	1. The "Average Reading Score" value for the school actually improved after the 9th grade's data was removed, marking the only case of a clear improvement for the school by removing an entire grade's data values. In addition to this case being an exception to other changes in the results of this analysis without the invalid data, the change was large enough to impact the formatted values, since this result reflected the school itself instead of factoring in other school's data and making the impact from removing this data less clear.
-	 
-	2.
-
-	3. 
-
-	4. 
+1. The "Average Reading Score" value for the school actually improved after the 9th grade's data was removed, marking the only case of a clear improvement for the school by removing an entire grade's data values. In addition to this case being an exception to other changes in the results of this analysis without the invalid data, the change was large enough to impact the formatted values, since this result reflected the school itself instead of factoring in other school's data and making the impact from removing this data less clear.
+2. Another clear change in the results of these analyses was the drop in students passing reading, with the change being 0.29% less than the initial analysis. This means that while 9th grade students performed at a lower level than the other grades in reading, they had a larger number of passing grades that was able to lift the number of passing students in reading when the invalid data was still included in this analysis.
+3. As was shown in the previous case of the reading scores at Thomas High School and the percentage of students that passed reading, the number of passing students present in the invalidated 9th grade data was able to raise Thomas High School's "% Overall Passing" value around 0.30% and bring it to a middle ground between the highest performing school in the district and the third-best performing school in the district. Without the 9th grade data, Thomas High School's overall performance was brought closer the other schools below it in the list of top schools and left the top-performing school seeming slightly more exceptional among the other schools listed.
+4. A fourth change that was noticed when analyzing the two different data sheets was the District Summary that included the performances from all of the different schools in the district. The changes were mostly a slight drop that amounted to a loss of nearly .1 to each resulting value, with the exception of two sections: the "% Passing Reading" and the "Average Reading Score". The "% Passing Reading" took a drop of around .3 percentage points by removing the 9th grade data from Thomas High School - which was the largest change among any of the data sections in this summary. At the same time, the "Average Reading Score" section did not change at all after removing the 9th grade data from Thomas High School, which means the reading score data that was dropped was close to the average among the other schools in the district which boosted the number of students with a passing grade.
